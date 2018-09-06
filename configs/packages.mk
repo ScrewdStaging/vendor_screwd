@@ -48,11 +48,11 @@ PRODUCT_PACKAGES += \
     Turbo
 
 # DU Utils Library
-PRODUCT_PACKAGES += \
-    org.dirtyunicorns.utils
+#PRODUCT_PACKAGES += \
+#    org.dirtyunicorns.utils
 
-PRODUCT_BOOT_JARS += \
-    org.dirtyunicorns.utils
+#PRODUCT_BOOT_JARS += \
+#    org.dirtyunicorns.utils
 
 # Extra tools
 PRODUCT_PACKAGES += \
@@ -81,42 +81,42 @@ PRODUCT_PACKAGES += \
 
 # Themes
 # Accents
-PRODUCT_PACKAGES += \
-    PixelTheme \
-    AmberAccent \
-    BlackAccent \
-    BlueAccent \
-    BlueGreyAccent \
-    BrownAccent \
-    CyanAccent \
-    DeepOrangeAccent \
-    DeepPurpleAccent \
-    GreenAccent \
-    GreyAccent \
-    IndigoAccent \
-    LightBlueAccent \
-    LightGreenAccent \
-    LimeAccent \
-    OrangeAccent \
-    PinkAccent \
-    PurpleAccent \
-    RedAccent \
-    TealAccent \
-    YellowAccent \
-    WhiteAccent
+#PRODUCT_PACKAGES += \
+#    PixelTheme \
+#    AmberAccent \
+#    BlackAccent \
+#    BlueAccent \
+#    BlueGreyAccent \
+#    BrownAccent \
+#    CyanAccent \
+#    DeepOrangeAccent \
+#    DeepPurpleAccent \
+#    GreenAccent \
+#    GreyAccent \
+#    IndigoAccent \
+#    LightBlueAccent \
+#    LightGreenAccent \
+#    LimeAccent \
+#    OrangeAccent \
+#    PinkAccent \
+#    PurpleAccent \
+#    RedAccent \
+#    TealAccent \
+#    YellowAccent \
+#    WhiteAccent
 
 # UI Variants
-PRODUCT_PACKAGES += \
-    SystemDarkTheme \
-    SettingsDarkTheme \
-    DuiDarkTheme \
-    SystemBlackTheme \
-    SettingsBlackTheme \
-    DuiBlackTheme
+#PRODUCT_PACKAGES += \
+#    SystemDarkTheme \
+#    SettingsDarkTheme \
+#    DuiDarkTheme \
+#    SystemBlackTheme \
+#    SettingsBlackTheme \
+#    DuiBlackTheme
 
 # Fonts
-PRODUCT_PACKAGES += \
-    DU-Fonts
+#PRODUCT_PACKAGES += \
+#    DU-Fonts
 
 
 

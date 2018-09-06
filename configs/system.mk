@@ -31,9 +31,9 @@ PRODUCT_COPY_FILES += \
 
 # backup script
  PRODUCT_COPY_FILES += \
-    vendor/extras/tools/backuptool.sh:install/bin/backuptool.sh \
-    vendor/extras/tools/backuptool.functions:install/bin/backuptool.functions \
-    vendor/extras/tools/50-screwd.sh:system/addon.d/50-screwd.sh
+    vendor/extras/build/tools/backuptool.sh:install/bin/backuptool.sh \
+    vendor/extras/build/tools/backuptool.functions:install/bin/backuptool.functions \
+    vendor/extras/build/tools/50-screwd.sh:system/addon.d/50-screwd.sh
 
 # HOSTS file
 PRODUCT_COPY_FILES += \

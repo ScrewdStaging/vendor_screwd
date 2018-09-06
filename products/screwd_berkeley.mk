@@ -22,7 +22,7 @@ ifeq (screwd_berkeley,$(TARGET_PRODUCT))
 # Include Screw'd common configuration
 include vendor/screwd/main.mk
 
-$(call inherit-product, device/huawei/berkeley/full_berkeley.mk)
+$(call inherit-product, device/huawei/berkeley/device.mk)
 
 # Override Product Name for CarbonROM
 PRODUCT_NAME := screwd_berkeley
